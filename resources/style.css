@@ -26,12 +26,12 @@ h2 {
 }
 
 input[type='range'] {
-  width: 399px;
+  width: 300px;
   margin: 18px 0;
   -webkit-appearance: none;
 }
 
-input[type='range']: focus {
+input[type='range'] focus {
   outline: none;
 }
 
